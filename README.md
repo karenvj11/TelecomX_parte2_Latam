@@ -1,8 +1,8 @@
-# 📊 TelecomX – Análisis y Predicción de la Rotación de Clientes
+# 📊 TelecomX – Análisis y Predicción de la Evasión de Clientes
 
 ## 📌 Acerca del Proyecto
 
-Este proyecto busca analizar el comportamiento de los clientes de TelecomX y desarrollar modelos de aprendizaje automático capaces de predecir la rotación de clientes.
+Este proyecto busca analizar el comportamiento de los clientes de TelecomX y desarrollar modelos de aprendizaje automático capaces de predecir la evasión de clientes.
 
 La rotación de clientes representa a los clientes que han cancelado sus servicios, lo que impacta directamente en los ingresos de la compañía. Mediante análisis exploratorio y modelos predictivos, buscamos identificar los principales factores que influyen en la rotación y proponer soluciones estratégicas.
 
